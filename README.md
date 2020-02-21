@@ -1,4 +1,4 @@
-# Error-detection-code-and-correction-code-inComputer_Network
+# Error-detection-code-and-correction-code-in-Computer_Network
 
 Python Codes for Error detection and correction
 2 Dimentional Parity Check (advanced LPC), 
